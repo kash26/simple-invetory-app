@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "ProBook",
+      "price": "239",
+      "type": "PC",
+      "brand": "HP",
+      "id": 2
+    },
+    {
+      "name": "HP DeskJet 2710",
+      "price": "59",
+      "type": "Printer",
+      "brand": "HP",
+      "id": 3
+    }
+  ]
+}
